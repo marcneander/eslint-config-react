@@ -1,0 +1,37 @@
+{
+  "name": "@marcneander/eslint-config-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marc Neander <marcneander@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcneander/eslint-config-react"
+  },
+  "homepage": "https://marcneander.se",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "marcneander",
+    "javascript",
+    "styleguide",
+    "es2015",
+    "es2016",
+    "es2017",
+    "es2018"
+  ],
+  "dependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-prettier": "^3.0.0",
+    "eslint-plugin-react": "^7.11.1"
+  },
+  "peerDependencies": {
+    "eslint": "^4.19.1 || ^5.3.0",
+    "prettier": "^1.14.3"
+  }
+}
