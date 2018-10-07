@@ -1,13 +1,17 @@
 {
   "name": "@marcneander/eslint-config-react",
   "version": "1.0.0",
-  "main": "index.js",
   "author": "Marc Neander <marcneander@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/marcneander/eslint-config-react"
   },
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE"
+  ],
   "homepage": "https://marcneander.se",
   "keywords": [
     "eslint",
