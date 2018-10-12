@@ -15,6 +15,17 @@ module.exports = {
 
         // react
         'react/jsx-filename-extension': 'off',
+
+        // prettier
+        'prettier/prettier': [
+            'error',
+            {
+                singleQuote: true,
+                trailingComma: 'none',
+                tabWidth: 4,
+                printWidth: 120
+            }
+        ]
     }
 };
 
