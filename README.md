@@ -12,6 +12,9 @@
 </p>
 
 # eslint-config-react
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/marcneander/eslint-config-react.svg)](https://greenkeeper.io/)
+
 ## Install
 
 `yarn add --dev @marcneander/eslint-config-react`
