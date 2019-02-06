@@ -5,7 +5,7 @@ module.exports = {
         'prettier',
         'prettier/react',
     ],
-    plugins: ['prettier'],
+    plugins: ['prettier', 'react-hooks'],
     env: {
         browser: true
     },
@@ -15,6 +15,7 @@ module.exports = {
 
         // react
         'react/jsx-filename-extension': 'off',
+        "react-hooks/rules-of-hooks": "error",
 
         // prettier
         'prettier/prettier': [
