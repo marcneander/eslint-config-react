@@ -26,3 +26,10 @@ module.exports = {
     ...
 }
 ```
+
+or in package.json
+```
+"eslintConfig": {
+    "extends": "@marcneander/react"
+}
+```
