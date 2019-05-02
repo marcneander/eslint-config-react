@@ -1,6 +1,6 @@
 {
   "name": "@marcneander/eslint-config-react",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "author": "Marc Neander <marcneander@gmail.com>",
   "license": "MIT",
   "repository": {
