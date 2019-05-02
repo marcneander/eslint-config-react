@@ -10,12 +10,10 @@ module.exports = {
         browser: true
     },
     rules: {
-        // jsx-a11y
-        "jsx-a11y/click-events-have-key-events": 'off',
-
         // react
         'react/jsx-filename-extension': 'off',
         "react-hooks/rules-of-hooks": "error",
+        "react-hooks/exhaustive-deps": "warn",
 
         // prettier
         'prettier/prettier': [
